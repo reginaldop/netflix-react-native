@@ -3,6 +3,7 @@
 		"name": "Netflix",
 		"slug": "Netflix",
 		"platforms": ["ios", "android", "web"],
+		"sdkVersion": "37.0.1",
 		"version": "1.0.0",
 		"orientation": "portrait",
 		"icon": "./assets/icon.png",
