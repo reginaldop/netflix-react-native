@@ -1,7 +1,7 @@
 {
 	"expo": {
-		"name": "Netflix",
-		"slug": "Netflix",
+		"name": "a200",
+		"slug": "a200",
 		"platforms": ["ios", "android", "web"],
 		"version": "1.0.0",
 		"orientation": "portrait",
