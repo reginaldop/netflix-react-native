@@ -16,12 +16,12 @@ const Logo = styled.Image`
 `
 
 const Menu = styled.Text`
-	font-size: 16px;
+	font-size: 18px;
 	color: #fff;
 	letter-spacing: 0.1px;
 `
 
-const Header = ({ source }) => {
+const Header = () => {
 	return (
 		<Container>
 			<Logo resizeMode='contain' source={require('../assets/logo.png')} />
