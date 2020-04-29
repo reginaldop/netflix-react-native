@@ -12,8 +12,7 @@ const Container = styled.View`
 `
 
 const Banner = styled.Image`
-	width: 80%;
-	height: 80px;
+	height: 100px;
 `
 
 const Tags = styled.View`
