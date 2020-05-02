@@ -10,6 +10,8 @@ Netflix React Native
 <p align="center">Watch on <a href="https://www.youtube.com/watch?v=UTfGq8iaSEQ&t">Youtube</a></p>
 
 <div align="center">
-  <img align="center" src="https://github.com/reginaldop/netflix-react-native/blob/master/assets/app.gif" height="280px">
+   <a href="https://www.youtube.com/watch?v=UTfGq8iaSEQ&t">
+   <img align="center" src="https://github.com/reginaldop/netflix-react-native/blob/master/assets/app.gif" width="230px">
+   </a>
 
 </div>
