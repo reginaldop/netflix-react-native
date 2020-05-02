@@ -8,7 +8,7 @@ const Container = styled.View`
 	position: absolute;
 	width: 100%;
 	align-items: center;
-	bottom: 20px;
+	bottom: 8px;
 `
 
 const Banner = styled.Image`

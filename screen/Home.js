@@ -54,6 +54,7 @@ const Home = () => {
 					</Gradient>
 				</Poster>
 				<Movies label='Recomendados' item={api} />
+				<Movies label='Top 10' item={api} />
 			</Container>
 		</>
 	)
